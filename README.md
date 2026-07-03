@@ -6,30 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrestorrez-data)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:torrezandres702@gmail.com)
-[![Portfolio](https://img.shields.io/badge/HealthCheck_AI-Live-00C851?style=flat&logo=render&logoColor=white)](https://mi-app-obesidad.onrender.com)
+[![HealthCheck AI](https://img.shields.io/badge/HealthCheck_AI-Live-00C851?style=flat&logo=render&logoColor=white)](https://mi-app-obesidad.onrender.com)
 
 </div>
 
 ---
 
 Vi que la IA estaba cambiando todo y aposté todo. Construyo con Python, LLMs y arquitecturas multi-agente — desde el dato crudo hasta el modelo en producción. No aprendo leyendo manuales: aprendo construyendo cosas que fallan y entendiéndolas hasta que funcionan.
-
-```python
-andres = {
-    "rol": ["AI Developer", "Data Analyst"],
-    "stack": {
-        "ai_ml":      ["XGBoost", "Scikit-learn", "SHAP", "Optuna", "SMOTE"],
-        "llms":       ["Claude API", "Groq API", "LangGraph", "LiteLLM", "LangSmith"],
-        "vectordb":   ["ChromaDB", "Neo4j Aura"],
-        "backend":    ["Python", "FastAPI", "APIs REST"],
-        "cloud":      ["Docker", "AWS", "Render"],
-        "tools":      ["Cursor", "Claude Code", "Streamlit", "Git"],
-    },
-    "en_produccion": ["HealthCheck AI → mi-app-obesidad.onrender.com"],
-    "actualmente":   "AI & Data Science — Factoría F5 (1.250h) + Máster — Neoland + AWS — EOI",
-    "frase":         "Detrás de cada dato hay una decisión.",
-}
-```
 
 ---
 
@@ -64,17 +47,64 @@ andres = {
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Herramientas**
+
+![Cursor](https://img.shields.io/badge/Cursor-181717?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat&logoColor=white)
+
+---
+
+## Logros destacados
+
+| Logro | Descripción | Fecha |
+|---|---|---|
+| **Jurado — Hackathon IA Generativa** | Evalué proyectos de IA aplicando criterios de innovación, viabilidad técnica e impacto real. Organizado por Factoría F5 con Microsoft | Mar 2026 |
+| **Voluntario — Codemotion Madrid** | Coordiné la gestión de speakers en uno de los eventos tech más grandes de Europa (+2.000 asistentes). Contacto con Inditex Tech, EY y Softtek | Abr 2026 |
+| **Beca 100% — Máster Data Science & AI** | Ganada entre todos los asistentes de Codemotion Madrid. Actualmente cursando en Neoland | 2026 |
+
+---
+
+## Certificaciones
+
+| Certificación | Entidad | Estado |
+|---|---|---|
+| Python Essentials 1 | Cisco | Completado — 2026 |
+| JSE Entry-Level JavaScript Programmer | JS Institute | Completado — 2023 |
+| AWS Cloud Practitioner | Amazon Web Services | En curso — 2026 |
+| Azure AI Engineer Associate (AI-102) | Microsoft | Próximo |
+| Azure Data Scientist Associate (DP-100) | Microsoft | Próximo |
+
+---
+
+## Trayectoria de aprendizaje
+
+```
+COMPLETADO                    EN PROGRESO                PRÓXIMO
+──────────────────────────    ─────────────────────      ──────────────────────
+Python                        AWS Cloud Practitioner     Azure AI-102
+Machine Learning (XGBoost)    LangChain avanzado         Azure DP-100
+FastAPI & APIs REST           English B2                 MCP Servers
+Docker & Render               LangGraph avanzado         Fine-tuning LLMs
+LLMs vía API (Claude, Groq)
+RAG híbrido (ChromaDB, Neo4j)
+Arquitecturas multi-agente
+LangGraph
+LangSmith
+Scrum Master
+```
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres-Torrez&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres-Torrez&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Torrez&layout=compact&theme=default&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Torrez&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andres-Torrez&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Andres-Torrez&theme=radical&hide_border=true)
 
 </div>
 
@@ -86,7 +116,6 @@ andres = {
 - Programa AI & Data Science — Factoría F5 (1.250h)
 - Máster en Data Science & AI — Neoland
 - Cloud Computing con AWS + IA Generativa — EOI (400h)
-- Jurado — Hackathon de IA Generativa con Microsoft (Marzo 2026)
 
 ---
 
