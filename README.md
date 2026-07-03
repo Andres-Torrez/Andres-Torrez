@@ -130,3 +130,11 @@ Cada proyecto me enseña algo que el anterior no pudo.
 *"Detrás de cada dato hay una decisión. Y detrás de cada decisión hay personas."*
 
 </div>
+
+---
+
+<div align="center">
+
+*"Detrás de cada dato hay una decisión. Y detrás de cada decisión hay personas."*
+
+</div>
