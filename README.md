@@ -38,7 +38,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,vite&theme=dark)](https://skillicons.dev)
 
-**Herramientas avanzadas de IA**
+**Stack avanzado de IA**
 
 ![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -58,8 +58,8 @@
 
 | | Logro | Fecha |
 |---|---|---|
-| ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Jurado — Hackathon IA Generativa** — Evalué proyectos de IA aplicando criterios de innovación, viabilidad técnica e impacto real | Mar 2026 |
-| ![Codemotion](https://img.shields.io/badge/-Codemotion-F05032?style=flat-square&logoColor=white) | **Voluntario — Codemotion Madrid** — +2.000 asistentes. Contacto con Inditex Tech, EY y Softtek | Abr 2026 |
+| ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Jurado — Hackathon IA Generativa** con Microsoft. Evalué proyectos aplicando criterios de innovación, viabilidad técnica e impacto real | Mar 2026 |
+| ![Codemotion](https://img.shields.io/badge/-Codemotion-F05032?style=flat-square&logoColor=white) | **Voluntario — Codemotion Madrid** — +2.000 asistentes. Contacto directo con Inditex Tech, EY y Softtek | Abr 2026 |
 | ![Neoland](https://img.shields.io/badge/-Neoland-6E40C9?style=flat-square&logoColor=white) | **Beca 100% — Máster Data Science & AI** — Ganada entre todos los asistentes de Codemotion Madrid | 2026 |
 
 ---
@@ -68,28 +68,36 @@
 
 | Certificación | Entidad | Estado |
 |---|---|---|
-| Python Essentials 1 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Completado — 2026 |
-| JSE Entry-Level JavaScript Programmer | ![JS Institute](https://img.shields.io/badge/JS_Institute-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Completado — 2023 |
-| AWS Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | En curso — 2026 |
-| Azure AI Engineer Associate (AI-102) | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Próximo |
-| Azure Data Scientist Associate (DP-100) | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Próximo |
+| Python Essentials 1 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | ![](https://img.shields.io/badge/Completado-4CAF50?style=flat-square) |
+| JSE Entry-Level JavaScript Programmer | ![JS Institute](https://img.shields.io/badge/JS_Institute-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/Completado-4CAF50?style=flat-square) |
+| AWS Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![](https://img.shields.io/badge/En_Progreso-FF9800?style=flat-square) |
+| Azure AI Engineer Associate (AI-102) | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | ![](https://img.shields.io/badge/Próximo-6E40C9?style=flat-square) |
+| Azure Data Scientist Associate (DP-100) | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | ![](https://img.shields.io/badge/Próximo-6E40C9?style=flat-square) |
 
 ---
 
 ## Trayectoria
 
+<div align="center">
+
+| Fase | Periodo | Formación | Estado |
+|:---:|:---:|---|:---:|
+| **01** | 2023 — 2024 | Full Stack Developer — Academia X (JS, React, Node, Python/Django) | ![](https://img.shields.io/badge/Completado-4CAF50?style=flat-square) |
+| **02** | 2024 — 2026 | Cloud Computing + AWS + IA Generativa — EOI (400h) | ![](https://img.shields.io/badge/Completado-4CAF50?style=flat-square) |
+| **03** | Nov 2025 — Ago 2026 | AI & Data Science — Factoría F5 (1.250h) · XGBoost · LLMs · Docker · RAG · Multi-agente | ![](https://img.shields.io/badge/En_Progreso-FF9800?style=flat-square) |
+| **04** | May 2026 — 2027 | Máster Data Science & AI — Neoland · ML · NLP · LLMs · Visualización | ![](https://img.shields.io/badge/En_Progreso-FF9800?style=flat-square) |
+| **05** | 2026 | AWS Cloud Practitioner + Azure AI-102 + Azure DP-100 | ![](https://img.shields.io/badge/Próximo-6E40C9?style=flat-square) |
+
+</div>
+
+<br/>
+<br/>
+
+**Filosofía de aprendizaje**
+
 ```
-COMPLETADO                       EN PROGRESO                 PRÓXIMO
-─────────────────────────────    ──────────────────────      ────────────────────
-Python                           AWS Cloud Practitioner      Azure AI-102
-Machine Learning (XGBoost)       LangChain avanzado          Azure DP-100
-FastAPI & APIs REST              English B2                  MCP Servers
-Docker & Render                                              Fine-tuning LLMs
-LLMs vía API (Claude, Groq)
-RAG híbrido (ChromaDB, Neo4j)
-Arquitecturas multi-agente
-LangGraph & LangSmith
-Scrum Master x2
+No existen expertos en IA — solo personas que llevan más tiempo aprendiendo.
+Cada proyecto me enseña algo que el anterior no pudo.
 ```
 
 ---
