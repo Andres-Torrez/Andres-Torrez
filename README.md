@@ -106,20 +106,9 @@ Cada proyecto me enseña algo que el anterior no pudo.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Andres-Torrez&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Andres-Torrez?cardType=level&theme=tokyonight" alt="GitHub Stats" />
 
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres-Torrez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Torrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andres-Torrez&theme=tokyonight&hide_border=true)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andres-Torrez&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://streak-stats.demolab.com/?user=Andres-Torrez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
