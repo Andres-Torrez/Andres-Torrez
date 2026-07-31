@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Developer+%26+Data+Science;Building+with+LLMs+%26+Multi-Agent+AI;From+data+to+intelligent+applications;La+ola+sigue+creciendo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+LLMs+%26+RAG;Building+Multi-Agent+AI+Systems;From+data+to+intelligent+applications;La+ola+sigue+creciendo.)](https://git.io/typing-svg)
 
 # Andres Torrez
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-*La Inteligencia Artificial está transformando la forma de construir tecnología. Desarrollo soluciones con Python, LLMs y arquitecturas multi-agente para convertir problemas reales en aplicaciones inteligentes.*
+*Construyo aplicaciones de Inteligencia Artificial con Python, LLMs y sistemas multi-agente, combinando modelos, datos y software para resolver problemas reales.*
 
 </div>
 
@@ -24,11 +24,13 @@
 
 ## Sobre mí
 
-Soy AI Developer enfocado en Inteligencia Artificial aplicada, Data Science y desarrollo de sistemas inteligentes.
+Soy AI Developer enfocado en Inteligencia Artificial aplicada, LLM Applications y desarrollo de sistemas inteligentes.
 
-Trabajo principalmente con Python, modelos de lenguaje (LLMs), arquitecturas RAG y sistemas multi-agente, combinando datos, modelos y software para crear soluciones útiles.
+Trabajo principalmente con Python, FastAPI, modelos de lenguaje (LLMs), arquitecturas RAG y sistemas multi-agente.
 
-Me interesa especialmente la intersección entre tecnología y negocio: entender un problema, diseñar una solución y construir herramientas que generen valor real.
+Mi objetivo es transformar problemas reales de negocio en soluciones de IA útiles, escalables y fáciles de integrar.
+
+Me interesa especialmente la conexión entre tecnología y personas: entender una necesidad, diseñar una solución y construir herramientas que generen impacto.
 
 ---
 
@@ -53,10 +55,13 @@ Scikit-Learn · XGBoost · Machine Learning · NLP · LLM Applications
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,vite&theme=dark)](https://skillicons.dev)
 
 
-### Stack de IA Generativa
+### IA Generativa & Sistemas Inteligentes
 
-![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-181717?style=flat-square)
 ![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F7931E?style=flat-square)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square)
@@ -73,7 +78,7 @@ Scikit-Learn · XGBoost · Machine Learning · NLP · LLM Applications
 | | Logro | Fecha |
 |---|---|---|
 | ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Jurado — Hackathon IA Generativa con Microsoft.** Evaluación de proyectos considerando innovación, viabilidad técnica e impacto real. | Mar 2026 |
-| ![Codemotion](https://img.shields.io/badge/-Codemotion-F05032?style=flat-square) | **Voluntario — Codemotion Madrid.** Participación en evento tecnológico con más de 2.000 asistentes y contacto con empresas como Inditex Tech, EY y Softtek. | Abr 2026 |
+| ![Codemotion](https://img.shields.io/badge/-Codemotion-F05032?style=flat-square) | **Voluntario — Codemotion Madrid.** Participación en evento tecnológico con más de 2.000 asistentes y contacto con empresas del sector. | Abr 2026 |
 | ![Neoland](https://img.shields.io/badge/-Neoland-6E40C9?style=flat-square) | **Beca 100% — Máster Data Science & AI.** Obtenida durante Codemotion Madrid. | 2026 |
 
 ---
@@ -103,3 +108,29 @@ Scikit-Learn · XGBoost · Machine Learning · NLP · LLM Applications
 ---
 
 ## Filosofía de aprendizaje
+
+```
+No existen expertos en IA — solo personas que llevan más tiempo aprendiendo.
+
+Cada proyecto me enseña algo que el anterior no pudo.
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Andres-Torrez?cardType=level&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com/?user=Andres-Torrez&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Detrás de cada dato hay una decisión. Y detrás de cada decisión hay personas."*
+
+</div>
