@@ -51,17 +51,7 @@ Mi objetivo es transformar problemas reales de negocio en soluciones de IA útil
 
 <div align="center">
 
-**Inteligencia Artificial & Machine Learning**
-
-[![Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch&theme=dark)](https://skillicons.dev)
-
-Scikit-Learn · XGBoost · Optuna · SHAP · NLP · LLM Applications
-
-**Backend & Cloud**
-
-[![Skills](https://skillicons.dev/icons?i=fastapi,docker,aws,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-**IA Generativa & Sistemas Multi-Agente**
+**IA Generativa & Sistemas Multi-Agente** *(mi día a día)*
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -76,6 +66,16 @@ Scikit-Learn · XGBoost · Optuna · SHAP · NLP · LLM Applications
 ![Kimi API](https://img.shields.io/badge/Kimi_API-181717?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-181717?style=flat-square&logo=cursor&logoColor=white)
+
+**Backend & Cloud**
+
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,docker,aws,git,github&theme=dark)](https://skillicons.dev)
+
+**Machine Learning** *(aplicado en proyectos reales)*
+
+[![Skills](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://skillicons.dev)
+
+Scikit-Learn · XGBoost · Optuna · SHAP — aplicados en un clasificador en producción y en predicción bancaria con explicabilidad. En continuo perfeccionamiento.
 
 **Desarrollo Web (conocimientos complementarios)**
 
